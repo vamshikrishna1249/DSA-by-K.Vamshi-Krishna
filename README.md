@@ -49,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
