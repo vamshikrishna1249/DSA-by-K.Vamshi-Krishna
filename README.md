@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0009-palindrome-number) |
 | [3870-count-commas-in-range](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3870-count-commas-in-range) |
 ## Backtracking
 |  |
