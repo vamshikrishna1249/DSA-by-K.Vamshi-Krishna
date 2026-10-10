@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0078-subsets) |
+| [0152-maximum-product-subarray](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
